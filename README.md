@@ -1,16 +1,31 @@
-# lab_app2
+A flutter application that let's u choose a Category, and lists all the Meal options within that Category.
 
-A new Flutter project.
+2 filters implemented, one for Category name, the other one for Meal name, if you click on the cards of the meals, you'll get the details of the food.
 
-## Getting Started
+Category Page : 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="925" height="919" alt="image" src="https://github.com/user-attachments/assets/edff4128-5f14-4637-b9a9-2329e9c3fbdb" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Category Filter :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img width="925" height="827" alt="image" src="https://github.com/user-attachments/assets/a4221172-7752-4024-9bdc-6cd908042bfd" />
+
+
+Meal Page :
+
+
+<img width="933" height="921" alt="image" src="https://github.com/user-attachments/assets/0e393a98-f4d3-4ef2-bfd0-ad184e2fb048" />
+
+
+Meal Filter :
+
+
+<img width="927" height="903" alt="image" src="https://github.com/user-attachments/assets/76bc7457-fc73-47f1-9da0-b30835688eae" />
+
+
+Meal Details : 
+
+
+<img width="921" height="917" alt="image" src="https://github.com/user-attachments/assets/f6189d26-6f31-4025-8749-90fc97eb2413" />
